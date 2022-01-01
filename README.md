@@ -1,10 +1,10 @@
-### Hi there 👋
+### Hi there 👋 <img align="right"  width="200px" src="https://64.media.tumblr.com/64efb40cdb22658e6decdffeb436ee9f/tumblr_mox8hfpW0M1s5jjtzo1_500.gifv" />
 
 My name is José João Ferreira. Glad to see you!
 
 - 👦 I'm currently living in Lisbon, Portugal!
-- 💻 Studying Computer Science (LEIC) @ IST
-- 📫 How to reach me: via e-mail to `jjasferreira@gmail.com`
+- 💻 Studying [Computer Science and Engineering](https://fenix.tecnico.ulisboa.pt/cursos/leic-a) at [Instituto Superior Técnico](https://tecnico.ulisboa.pt/pt/) 
+- 📫 How to reach me: via e-mail to `josejoaoferreira@tecnico.ulisboa.pt`
 
 ---
 

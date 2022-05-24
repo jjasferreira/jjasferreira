@@ -1,6 +1,6 @@
 ### Hi there 👋 <img align="right"  width="200px" src="https://64.media.tumblr.com/64efb40cdb22658e6decdffeb436ee9f/tumblr_mox8hfpW0M1s5jjtzo1_500.gifv" />
 
-My name is José João Ferreira, but call me **Jota**. Glad to see you!
+My name is José João Ferreira, but you call me **Jota**. Glad to see you!
 
 - 👦 I'm currently living in Lisbon, Portugal!
 - 💻 Studying [Computer Science and Engineering](https://fenix.tecnico.ulisboa.pt/cursos/leic-a) at [Instituto Superior Técnico](https://tecnico.ulisboa.pt/pt/) 

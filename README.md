@@ -9,12 +9,17 @@ My name is José João Ferreira, but you can call me **Jota**. Glad to see you!
 ---
 
 ### Tools & Languages 👨‍💻
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" />
+<img align="left" alt="R" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" />
 <img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png" />
 <img align="left" alt="Java" width="26px" src="https://i.imgur.com/EtkZSir.png" />
 <img align="left" alt="Prolog" width="26px" src="https://dashboard.snapcraft.io/site_media/appmedia/2020/04/Prolog-logo-512.png" />
 <img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png" />
 <img align="left" alt="Assembly" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/assembly/assembly.png" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" />
+<img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-original.svg" />
+<img align="left" alt="RStudio" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/rstudio/rstudio-original.svg" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" />
 <!--
 <img align="left" alt="Android Studio" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/android-studio/android-studio.png" />
